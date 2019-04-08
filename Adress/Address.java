@@ -1,8 +1,5 @@
 package additionalTask;
 
-/**
- * Created by WinDRunneR on 05.05.2016.
- */
 public class Address {
     int index;
     // String country, city, street, house, apartment;
