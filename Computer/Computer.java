@@ -1,8 +1,5 @@
 package task4;
 
-/**
- * Created by WinDRunneR on 05.05.2016.
- */
 public class Computer {
     String detail;
 
